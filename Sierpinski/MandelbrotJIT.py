@@ -1,4 +1,6 @@
 #Generate mandelbrot with JIT.
+# compute_mandelbrot taken from https://github.com/scipy-lectures/scipy-lectures.github.com/blob/master/_downloads/plot_mandelbrot.py
+
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy import newaxis

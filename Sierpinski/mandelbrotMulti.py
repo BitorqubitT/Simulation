@@ -1,4 +1,6 @@
-#Use python multiprocessing to speed up computation.
+# Use python multiprocessing to speed up computation.
+# compute_mandelbrot taken from https://github.com/scipy-lectures/scipy-lectures.github.com/blob/master/_downloads/plot_mandelbrot.py
+
 import timeit
 from multiprocessing import Pool
 import numpy as np
